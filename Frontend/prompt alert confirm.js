@@ -1,0 +1,5 @@
+alert("this is an alert box")
+var a=confirm("click true or false and check in console that is ctrl+shift+i")
+console.log(a)
+var b=prompt(("enter a value and check it in console ctrl+shift+i"))
+console.log(b)
