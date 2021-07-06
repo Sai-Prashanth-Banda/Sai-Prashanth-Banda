@@ -1,0 +1,20 @@
+<html>
+<head>
+</head>
+<script>
+function fun(){
+var a=document.getElementById("tagid");
+a.innerHTML="Hello dude!!!";
+var red=document.getElementById("redid")
+red.style.backgroundColor="red";
+var add=document.createElement("h1")
+add.innerHTML="add"
+document.body.append(add)
+}
+</script>
+<body>
+<h1 id="tagid"> Hello world changes to Hello dude!!! after clicking the button</h1>
+<h2 id="redid"> red color</h1>
+<button name="click" onclick="fun()">Click</button>
+</body>
+</html>
