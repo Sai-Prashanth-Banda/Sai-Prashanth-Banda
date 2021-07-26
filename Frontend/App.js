@@ -1,14 +1,12 @@
-import Home from './components/Home';
-import Footer from './component footer/Footer';
 import './App.css';
+
+import Navbar from './compnentsrouting/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <h1> Hello React js</h1>
-      <Home/>
-      <Footer/>
-      </div>
+      
+    </div>
   );
 }
 
