@@ -1,9 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Routing from './compnentsrouting/Routing';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+import Lifecycle from './Lifecycle';
 
 ReactDOM.render(
-    <Routing/>,
+  <React.StrictMode>
+    <App />
+    <Lifecycle/>
+  </React.StrictMode>,
   document.getElementById('root')
-)
+);
+
+reportWebVitals();
