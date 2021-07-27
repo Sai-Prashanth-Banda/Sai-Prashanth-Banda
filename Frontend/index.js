@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Lifecycle from './Lifecycle';
+import Hookscomponent from './Hookescomponent'
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Lifecycle/>
+    <Hookscomponent/>
   </React.StrictMode>,
   document.getElementById('root')
 );
