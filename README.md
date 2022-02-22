@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack (mern) and App development.
 - 🌱 I’m currently learning technical and management skills.
 - 📫 How to reach me on mail. 
-Mail - jsaiprathu@gmail.com.
+Mail - saiprashanth1999@outlook.com.
 
 <!---
 Sai-Prashanth-Banda/Sai-Prashanth-Banda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
