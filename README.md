@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai-Prashanth-Banda.
-- 👀 I’m interested in Fullstack (mern) and App development.
+- 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning technical and management skills.
 - 📫 How to reach me on mail. 
 Mail - saiprashanth1999@outlook.com.
