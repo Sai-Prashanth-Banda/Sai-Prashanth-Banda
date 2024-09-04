@@ -1,6 +1,6 @@
-# Sai Prashanth Banda
+# Banda Sai Prashanth
 
-👋 Hi, I'm **Sai Prashanth Banda**, a passionate Software Engineer with over a year of experience in backend development. My expertise lies in building scalable, high-performance applications using **Core Java**, **Spring Boot**, **Hibernate/JPA**, and **Kafka**. I'm currently working on revolutionizing local business promotion through my project, **Avior**.
+👋 Hi, I'm **Banda Sai Prashanth**, a passionate Software Engineer with over a year of experience in backend development. My expertise lies in building scalable, high-performance applications using **Core Java**, **Spring Boot**, **Hibernate/JPA**, and **Kafka**. I'm currently working on revolutionizing local business promotion through my project, **Avior**.
 
 ## 🛠️ Skills & Technologies
 
