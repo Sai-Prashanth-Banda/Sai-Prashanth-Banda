@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Sai-Prashanth-Banda.
-- 👀 I’m interested in Frontend and Fullstack development.
-- 🌱 I’m currently learning technical and management skills.
-- 📫 How to reach me on mail. 
-Mail - saiprashanth.vgs5@gmail.com
+# Sai Prashanth Banda
 
-<!---
-Sai-Prashanth-Banda/Sai-Prashanth-Banda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm **Sai Prashanth Banda**, a passionate Software Engineer with over a year of experience in backend development. My expertise lies in building scalable, high-performance applications using **Core Java**, **Spring Boot**, **Hibernate/JPA**, and **Kafka**. I'm currently working on revolutionizing local business promotion through my project, **Avior**.
+
+## 🛠️ Skills & Technologies
+
+- **Programming Languages:** Core Java, JavaScript, Python
+- **Frameworks & Libraries:** Spring Boot, Hibernate/JPA, ReactJS
+- **Database Technologies:** Redis, MySQL, Firebase
+- **Message Brokers:** Kafka
+- **Tools & Platforms:** Git, Docker, Jenkins
